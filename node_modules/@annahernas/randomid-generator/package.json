@@ -1,0 +1,8 @@
+{
+  "name": "@annahernas/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ahernas/Npm-pack.git",
+  "author": "Anna Garczarek <ania.garczarek@gmail.com>",
+  "license": "MIT"
+}
